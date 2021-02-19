@@ -1,10 +1,9 @@
 <?php 
 echo "test";
-<<<<<<< Updated upstream
+
 echo "test2";
 echo "notok";
-
-=======
 echo "OK";
->>>>>>> Stashed changes
+echo "I have got it well";
+
 ?>
